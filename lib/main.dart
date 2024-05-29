@@ -56,7 +56,7 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 // Adiciona a imagem do logo
                 Image.asset(
-                  'images/logo.jpg',
+                  'logo.jpg',
                   height: 244, // Ajuste conforme necessário
                   width: 275, // Ajuste conforme necessário
                 ),
@@ -65,7 +65,7 @@ class _LoginPageState extends State<LoginPage> {
                 Positioned(
                   top: 72, // Ajuste conforme necessário
                   child: Image.asset(
-                    'images/logo.jpg',
+                    'logo.jpg',
                     height: 52.11, // Ajuste conforme necessário
                     width: 300, // Ajuste conforme necessário
                   ),
